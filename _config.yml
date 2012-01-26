@@ -2,8 +2,8 @@ markdown: rdiscount
 pygments: true
 
 name: Collective Agency
-email:
-tagline:
+email: council@collectiveagency.co
+tagline: 322 NW Sixth Ave, #200, Portland, Oregon 97209
 location: Portland, OR
 github: collectiveagency
 identica:
@@ -33,7 +33,7 @@ ohloh_account_id:
 
 ohloh_url:
 
-linkedin_url:
+linkedin_url:http://www.linkedin.com/groups?gid=4045743&mostPopular=&trk=tyah
 
 base_url: 
 
