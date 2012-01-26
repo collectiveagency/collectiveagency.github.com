@@ -82,5 +82,4 @@ being easily configurable.
 
 # License
 
-Free Your Self is GPLv3 software, a version of the license can be found in the
-LICENSE file.
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
